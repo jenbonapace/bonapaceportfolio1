@@ -1,0 +1,22 @@
+
+<!doctype html>
+<head>
+
+
+</head>
+<body>
+ {background-color:pink;color:blue; text align:center;}
+<h1> Welcome to My  Website </h1>
+<p1>This is heading 2</p1>
+<h2>This is heading 3</h2>
+<p2>This is heading 4</p2>
+
+
+
+
+</hr>
+<a href="index.html">Home</a>
+<a href="contact.html">Contact Me</a>
+<a href="">Facebook</a>
+
+</body>

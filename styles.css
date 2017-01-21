@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+
+
+#title {
+    @font-face { font-family: expressive inks; src: url('expressive inks.TTF'); }
+}
+<body> {background-color: hsla(290,60%,70%,0.3)}
+h1   {color: black; background-color: hsla(290,60%,70%,0.3); text-align: center;}
+p    {color: blue;text-align: center;border-style:dashed;}
+
+blockquote {color:green; border-bottom: 10px}
+#nav {display:inline;color:green; text-shadow: 20px;}
+:link {background-color:yellow; }
+
+
+
+</style>
+</head>
+</body>
